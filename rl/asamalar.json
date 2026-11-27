@@ -1,0 +1,1327 @@
+{
+ "asamalar": [
+  {
+   "gorev": "ayakta",
+   "baslangic": 0,
+   "olcut": "10 doğumun en az 9'unda 2. saniyede dik (>0,9) ve gövde yüksekliği > 0,95 mm",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 114.63726807337719,
+     "hiz": 6.313521423419993,
+     "adim": 25000,
+     "asama_adimi": 25000,
+     "sure_dk": 0.9,
+     "onceki": {}
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 121.26785625987293,
+     "hiz": 4.299501263785489,
+     "adim": 50000,
+     "asama_adimi": 50000,
+     "sure_dk": 2.6,
+     "onceki": {}
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 133.1080828197686,
+     "hiz": 4.642014208665379,
+     "adim": 75000,
+     "asama_adimi": 75000,
+     "sure_dk": 4.8,
+     "onceki": {}
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 177.5796580688696,
+     "hiz": -2.3052913912783053,
+     "adim": 100000,
+     "asama_adimi": 100000,
+     "sure_dk": 7.0,
+     "onceki": {}
+    },
+    {
+     "gecti": false,
+     "basari": 7,
+     "odul": 181.6874936851114,
+     "hiz": 3.2979777242844586,
+     "adim": 125000,
+     "asama_adimi": 125000,
+     "sure_dk": 9.5,
+     "onceki": {}
+    },
+    {
+     "gecti": true,
+     "basari": 10,
+     "odul": 188.06251253220526,
+     "hiz": 2.570764167299781,
+     "adim": 150000,
+     "asama_adimi": 150000,
+     "sure_dk": 12.2,
+     "onceki": {}
+    }
+   ],
+   "t0": 1795701071.789645,
+   "gecti": true,
+   "bitis": 150000,
+   "sure_dk": 12.2
+  },
+  {
+   "gorev": "yuru",
+   "baslangic": 150000,
+   "olcut": "10 denemenin en az 8'inde ortalama ileri hız >= 5 mm/s; adımların >= %80'inde en az 3 ayak yerde, >= %90'ında gövde dik (>0,8) ve 1,5 mm'den alçakta (2. denemede sertleştirildi: ilk ölçüt zıplayan takla hilesini geçiriyordu)",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 248.2709092578155,
+     "hiz": 4.551667198607646,
+     "adim": 175000,
+     "asama_adimi": 25000,
+     "sure_dk": 1.8,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 260.40950453881356,
+     "hiz": 5.412619945894946,
+     "adim": 200000,
+     "asama_adimi": 50000,
+     "sure_dk": 3.6,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 284.41813172948866,
+     "hiz": 11.85297347067846,
+     "adim": 225000,
+     "asama_adimi": 75000,
+     "sure_dk": 5.5,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 356.04405269889395,
+     "hiz": 20.507977898389573,
+     "adim": 250000,
+     "asama_adimi": 100000,
+     "sure_dk": 7.0,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 472.72338027142104,
+     "hiz": 26.75383108968747,
+     "adim": 275000,
+     "asama_adimi": 125000,
+     "sure_dk": 8.6,
+     "onceki": {
+      "ayakta": 8
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 4,
+     "odul": 305.7106233748539,
+     "hiz": 12.129125434050309,
+     "adim": 300000,
+     "asama_adimi": 150000,
+     "sure_dk": 10.5,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 307.8387293746565,
+     "hiz": 14.682942765558712,
+     "adim": 325000,
+     "asama_adimi": 175000,
+     "sure_dk": 12.1,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 310.1066243954894,
+     "hiz": 12.378907274921794,
+     "adim": 350000,
+     "asama_adimi": 200000,
+     "sure_dk": 13.6,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 311.0209890530944,
+     "hiz": 13.875090033568146,
+     "adim": 375000,
+     "asama_adimi": 225000,
+     "sure_dk": 15.2,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 2,
+     "odul": 317.05489677104526,
+     "hiz": 14.099299223049826,
+     "adim": 400000,
+     "asama_adimi": 250000,
+     "sure_dk": 16.8,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 312.77222930362467,
+     "hiz": 15.223199566963004,
+     "adim": 425000,
+     "asama_adimi": 275000,
+     "sure_dk": 18.3,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 314.32883420361,
+     "hiz": 13.57868959494076,
+     "adim": 450000,
+     "asama_adimi": 300000,
+     "sure_dk": 20.0,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 317.0119336745203,
+     "hiz": 14.900158236346972,
+     "adim": 475000,
+     "asama_adimi": 325000,
+     "sure_dk": 21.5,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 314.54075839049574,
+     "hiz": 15.809261967789672,
+     "adim": 500000,
+     "asama_adimi": 350000,
+     "sure_dk": 23.1,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 382.15865895948286,
+     "hiz": 14.590811119507242,
+     "adim": 525000,
+     "asama_adimi": 375000,
+     "sure_dk": 24.9,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 2,
+     "odul": 395.764049067804,
+     "hiz": 14.765673109596378,
+     "adim": 550000,
+     "asama_adimi": 400000,
+     "sure_dk": 26.5,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 385.7662214279104,
+     "hiz": 13.747841681479368,
+     "adim": 575000,
+     "asama_adimi": 425000,
+     "sure_dk": 28.1,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 2,
+     "odul": 396.43736263086004,
+     "hiz": 14.471513685472754,
+     "adim": 600000,
+     "asama_adimi": 450000,
+     "sure_dk": 30.0,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 394.9804442289916,
+     "hiz": 13.852756818800987,
+     "adim": 625000,
+     "asama_adimi": 475000,
+     "sure_dk": 32.0,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 5,
+     "odul": 399.93363142391354,
+     "hiz": 11.745021395034994,
+     "adim": 650000,
+     "asama_adimi": 500000,
+     "sure_dk": 33.9,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 4,
+     "odul": 402.0391525536756,
+     "hiz": 12.965847998775487,
+     "adim": 675000,
+     "asama_adimi": 525000,
+     "sure_dk": 35.8,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 2,
+     "odul": 389.3661200577086,
+     "hiz": 13.475701262322891,
+     "adim": 700000,
+     "asama_adimi": 550000,
+     "sure_dk": 37.4,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 4,
+     "odul": 397.8106893425262,
+     "hiz": 13.57338961918417,
+     "adim": 725000,
+     "asama_adimi": 575000,
+     "sure_dk": 39.0,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 5,
+     "odul": 404.5251437332407,
+     "hiz": 14.398159442815631,
+     "adim": 750000,
+     "asama_adimi": 600000,
+     "sure_dk": 40.6,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 5,
+     "odul": 401.53947719257405,
+     "hiz": 13.515321264298407,
+     "adim": 775000,
+     "asama_adimi": 625000,
+     "sure_dk": 42.2,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 6,
+     "odul": 410.46324685485285,
+     "hiz": 12.801681854501288,
+     "adim": 800000,
+     "asama_adimi": 650000,
+     "sure_dk": 43.7,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 7,
+     "odul": 409.29106625294133,
+     "hiz": 14.395582432870805,
+     "adim": 825000,
+     "asama_adimi": 675000,
+     "sure_dk": 45.3,
+     "onceki": {
+      "ayakta": 9
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 3,
+     "odul": 398.789957775798,
+     "hiz": 14.734379930757271,
+     "adim": 850000,
+     "asama_adimi": 700000,
+     "sure_dk": 46.9,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 4,
+     "odul": 401.31228400659353,
+     "hiz": 13.207123774928444,
+     "adim": 875000,
+     "asama_adimi": 725000,
+     "sure_dk": 48.4,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 4,
+     "odul": 400.6022715606037,
+     "hiz": 14.619248503949137,
+     "adim": 900000,
+     "asama_adimi": 750000,
+     "sure_dk": 50.1,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 7,
+     "odul": 412.4777295662585,
+     "hiz": 13.032106588379003,
+     "adim": 925000,
+     "asama_adimi": 775000,
+     "sure_dk": 51.6,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 7,
+     "odul": 411.0850619825613,
+     "hiz": 12.390502111157117,
+     "adim": 950000,
+     "asama_adimi": 800000,
+     "sure_dk": 53.2,
+     "onceki": {
+      "ayakta": 10
+     }
+    },
+    {
+     "gecti": true,
+     "basari": 9,
+     "odul": 416.87085261672,
+     "hiz": 12.018590484931888,
+     "adim": 975000,
+     "asama_adimi": 825000,
+     "sure_dk": 54.7,
+     "onceki": {
+      "ayakta": 10
+     }
+    }
+   ],
+   "t0": 1795702771.360779,
+   "not": "275 bin adımda ödül değişti: hız 10 mm/s'de doyuyor (ajan 27 mm/s'de sekip ayak temasını %50'de tutuyordu). Eğitim aynı beyinden sürdü, bütçe 150 binden sayılıyor. 500 bin adımda +0,5 'sağlam basış' ödülü eklendi (>=3 ayak yerde): sınav 300-500 bin arasında 0-4/10'da takılı, temas oranı %73-82 sınırında.",
+   "gecti": true,
+   "bitis": 975000,
+   "sure_dk": 54.7
+  },
+  {
+   "gorev": "koku",
+   "baslangic": 975000,
+   "olcut": "10 denemenin en az 7'sinde 5 s içinde tatlı damlaya ulaşma",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 283.8440568091994,
+     "hiz": 5.724263471635049,
+     "adim": 1000000,
+     "asama_adimi": 25000,
+     "sure_dk": 1.7,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "1"
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 2,
+     "odul": 484.13267303947384,
+     "hiz": 3.71239032677909,
+     "adim": 1025000,
+     "asama_adimi": 50000,
+     "sure_dk": 3.5,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "4"
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 347.1978329950317,
+     "hiz": 2.5782987236733073,
+     "adim": 1050000,
+     "asama_adimi": 75000,
+     "sure_dk": 5.4,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "2"
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 278.21099890403246,
+     "hiz": 3.432775474819395,
+     "adim": 1075000,
+     "asama_adimi": 100000,
+     "sure_dk": 8.0,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "1"
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 2,
+     "odul": 413.0834336517426,
+     "hiz": 2.3239512778360942,
+     "adim": 1100000,
+     "asama_adimi": 125000,
+     "sure_dk": 10.2,
+     "onceki": {
+      "ayakta": 8,
+      "yuru": "5"
+     }
+    },
+    {
+     "gecti": true,
+     "basari": 9,
+     "odul": 572.6376266827986,
+     "hiz": 4.288866882062831,
+     "adim": 1125000,
+     "asama_adimi": 150000,
+     "sure_dk": 12.4,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "1"
+     }
+    }
+   ],
+   "t0": 1795707386.013555,
+   "gecti": true,
+   "bitis": 1125000,
+   "sure_dk": 12.4
+  },
+  {
+   "gorev": "tat",
+   "baslangic": 1125000,
+   "olcut": "10 denemenin en az 8'inde ilk değilen damla tatlı",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "basari": 2,
+     "odul": 93.50474284812302,
+     "hiz": 2.8644245302349676,
+     "ilk_tat": [
+      "seker",
+      "aci",
+      "seker",
+      null,
+      null,
+      "seker_aci",
+      "seker_aci",
+      null,
+      "seker_aci",
+      null
+     ],
+     "adim": 1150000,
+     "asama_adimi": 25000,
+     "sure_dk": 2.9,
+     "onceki": {
+      "ayakta": 3,
+      "yuru": "0",
+      "koku": 0
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 416.8501800554226,
+     "hiz": 0.013698858431902133,
+     "ilk_tat": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     "adim": 1175000,
+     "asama_adimi": 50000,
+     "sure_dk": 7.0,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "5",
+      "koku": 1
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 2,
+     "odul": 512.9030731303277,
+     "hiz": 0.27461784861850846,
+     "ilk_tat": [
+      null,
+      null,
+      null,
+      null,
+      "seker",
+      null,
+      null,
+      null,
+      "seker",
+      null
+     ],
+     "adim": 1200000,
+     "asama_adimi": 75000,
+     "sure_dk": 9.2,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "0",
+      "koku": 1
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 477.44283688310014,
+     "hiz": 0.9148851564486964,
+     "ilk_tat": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      null,
+      "aci"
+     ],
+     "adim": 1225000,
+     "asama_adimi": 100000,
+     "sure_dk": 11.4,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": 0,
+      "koku": 0
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 3,
+     "odul": 488.96982224554006,
+     "hiz": 0.5948417908777455,
+     "ilk_tat": [
+      null,
+      null,
+      null,
+      null,
+      null,
+      "seker",
+      null,
+      "seker",
+      "seker",
+      null
+     ],
+     "adim": 1250000,
+     "asama_adimi": 125000,
+     "sure_dk": 14.0,
+     "onceki": {
+      "ayakta": 2,
+      "yuru": "0",
+      "koku": 0
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 281.7633580190758,
+     "hiz": 4.719611010977928,
+     "ilk_tat": [
+      null,
+      "seker",
+      null,
+      "seker_aci",
+      null,
+      null,
+      null,
+      null,
+      "seker_aci",
+      null
+     ],
+     "adim": 1250000,
+     "asama_adimi": 125000,
+     "sure_dk": 16.4,
+     "onceki": {
+      "ayakta": 5,
+      "yuru": "0",
+      "koku": 0
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 4,
+     "odul": 205.81815481301322,
+     "hiz": 3.7273769834823822,
+     "ilk_tat": [
+      null,
+      "seker",
+      "seker",
+      null,
+      null,
+      "aci",
+      "seker",
+      null,
+      null,
+      "seker"
+     ],
+     "adim": 1275000,
+     "asama_adimi": 150000,
+     "sure_dk": 18.4,
+     "onceki": {
+      "ayakta": 8,
+      "yuru": "0",
+      "koku": 1
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 6,
+     "odul": 391.4715157081514,
+     "hiz": 4.887197920677496,
+     "ilk_tat": [
+      "seker",
+      "seker",
+      null,
+      null,
+      null,
+      "seker",
+      "seker",
+      "seker",
+      "seker",
+      null
+     ],
+     "adim": 1300000,
+     "asama_adimi": 175000,
+     "sure_dk": 22.5,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "0",
+      "koku": 8
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 7,
+     "odul": 560.7636831414354,
+     "hiz": 4.356275406256374,
+     "ilk_tat": [
+      "seker",
+      "seker",
+      "seker",
+      "seker_aci",
+      "seker",
+      null,
+      "seker_aci",
+      "seker",
+      "seker",
+      "seker"
+     ],
+     "adim": 1325000,
+     "asama_adimi": 200000,
+     "sure_dk": 27.3,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "0",
+      "koku": 9
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 7,
+     "odul": 534.7177162716036,
+     "hiz": 2.6605516263863374,
+     "ilk_tat": [
+      "seker",
+      "seker",
+      "seker",
+      "seker",
+      null,
+      "seker",
+      null,
+      "seker",
+      "seker_aci",
+      "seker"
+     ],
+     "adim": 1350000,
+     "asama_adimi": 225000,
+     "sure_dk": 32.0,
+     "onceki": {
+      "ayakta": 8,
+      "yuru": 0,
+      "koku": 10
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 7,
+     "odul": 607.6912303417924,
+     "hiz": 3.082442698019927,
+     "ilk_tat": [
+      "seker",
+      "seker_aci",
+      "seker",
+      "seker",
+      null,
+      "seker",
+      "seker",
+      "seker_aci",
+      "seker",
+      "seker"
+     ],
+     "adim": 1375000,
+     "asama_adimi": 250000,
+     "sure_dk": 35.1,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "0",
+      "koku": 8
+     }
+    },
+    {
+     "gecti": true,
+     "basari": 8,
+     "odul": 787.7429151495645,
+     "hiz": 3.162660756578287,
+     "ilk_tat": [
+      "seker",
+      "seker",
+      "seker_aci",
+      "seker",
+      "seker",
+      "aci",
+      "seker",
+      "seker",
+      "seker",
+      "seker"
+     ],
+     "adim": 1400000,
+     "asama_adimi": 275000,
+     "sure_dk": 37.3,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "0",
+      "koku": 10
+     }
+    }
+   ],
+   "t0": 1795708681.1707368,
+   "gecti": true,
+   "bitis": 1400000,
+   "sure_dk": 37.3
+  },
+  {
+   "gorev": "kacis",
+   "gecti": true,
+   "yontem": "ayrı kaçış devresi (PPO, ent 0,05), hareket beyni G4 dondurulmuş, gölge yokken karar yok",
+   "olcut": "gerçek gölgelerin en az 9/10'undan kaçış (düzeltilmiş ölçüt)",
+   "sinavlar": [
+    {
+     "adim": 0,
+     "kacis": 6,
+     "bosuna_kalkis": 8
+    },
+    {
+     "adim": 28672,
+     "kacis": 8,
+     "bosuna_kalkis": 10
+    },
+    {
+     "adim": 57344,
+     "kacis": 10,
+     "bosuna_kalkis": 10
+    },
+    {
+     "adim": 86016,
+     "kacis": 10,
+     "bosuna_kalkis": 10
+    },
+    {
+     "adim": 114688,
+     "kacis": 10,
+     "bosuna_kalkis": 10
+    }
+   ],
+   "sonuc": "devre gölge görünür görünmez kalkmayı öğrendi (refleks eşiğine varmadan); refleks 10/10 kaçış, 9-10/10 boşuna kalkış. Öğrenilen devre refleksi geçemedi. Kullanıcı kararıyla makale çalışmasına (doğuştan vs öğrenme) geçildi.",
+   "olcut_ilk": "10 gerçek gölgenin en az 9'undan kaçış ve 10 sahte gölgede en çok 3 boşuna kalkış",
+   "olcut_degisikligi": "İlk ölçüt sahte gölgede en çok 3/10 boşuna kalkış da istiyordu. Kullanıcının itirazıyla (26 Kas) gerçekçi bulunmadı: sahte gölgeler sineğin 4-8 mm yanından geçiyor; tek gözle büyüyen leke olarak görülen bu ıskalamayı ayırmak gerçek sinekten de beklenmez, bağlantı şeması refleksi de 10/10 boşuna kalkıyor. Ölçüt sonuç görüldükten sonra değiştirildi; ilk ölçüte göre aşama GEÇMEDİ.",
+   "gecti_duzeltilmis_olcutle": true,
+   "gecti_ilk_olcutle": false,
+   "secilen_model": "modeller/beyin_G5_kacis_devresi.zip (kacis_devresi 6. deneme, PPO ent 0,05, 86016 adım): 10/10 kaçış, 10/10 boşuna kalkış; bağlantı şeması refleksi 10/10, 9-10/10",
+   "bitis": 86016
+  }
+ ],
+ "k": 5,
+ "model": "./rl/modeller/beyin_1475000",
+ "olcut": {
+  "ayakta": "10 doğumun en az 9'unda 2. saniyede dik (>0,9) ve gövde yüksekliği > 0,95 mm",
+  "yuru": "10 denemenin en az 8'inde ortalama ileri hız >= 5 mm/s; adımların >= %80'inde en az 3 ayak yerde, >= %90'ında gövde dik (>0,8) ve 1,5 mm'den alçakta (2. denemede sertleştirildi)",
+  "koku": "10 denemenin en az 7'sinde 5 s içinde tatlı damlaya ulaşma",
+  "tat": "10 denemenin en az 8'inde ilk değilen damla tatlı",
+  "kacis": "10 gerçek gölgenin en az 9'undan kaçış ve 10 sahte gölgede en çok 3 boşuna kalkış"
+ },
+ "iptal_denemeler": [
+  {
+   "gorev": "yuru",
+   "neden": "düşünce bölüm bitiyordu (dik<0,2, -5): eğitimde bölümler ortalama 5-7 adım, yürüme ve doğrulma çöktü; kural kaldırıldı",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 9.377182572400105,
+     "hiz": 16.118647016924108,
+     "adim": 175000,
+     "asama_adimi": 25000,
+     "sure_dk": 2.4,
+     "onceki": {
+      "ayakta": 0
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 7.095993910345126,
+     "hiz": 11.959438092147703,
+     "adim": 200000,
+     "asama_adimi": 50000,
+     "sure_dk": 5.1,
+     "onceki": {
+      "ayakta": 2
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": -2.95513119892588,
+     "hiz": 7.9379348504286895,
+     "adim": 225000,
+     "asama_adimi": 75000,
+     "sure_dk": 7.8,
+     "onceki": {
+      "ayakta": 0
+     }
+    }
+   ]
+  },
+  {
+   "gorev": "yuru",
+   "neden": "sinek yürümek yerine takla atarak zıpladı (ayak teması %2-12, gövde 1,59 mm); eski sınav 6/10 veriyordu. Ödül: ayakta = dik + >=3 ayak yerde + z<1,5; dönme/zıplama cezası. Sınav sertleştirildi.",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "basari": 6,
+     "odul": 259.78284457276504,
+     "hiz": 14.703711413836714,
+     "adim": 175000,
+     "asama_adimi": 25000,
+     "sure_dk": 2.8,
+     "onceki": {
+      "ayakta": 2
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 6,
+     "odul": 315.0914739865139,
+     "hiz": 16.339349602644898,
+     "adim": 200000,
+     "asama_adimi": 50000,
+     "sure_dk": 5.0,
+     "onceki": {
+      "ayakta": 2
+     }
+    }
+   ]
+  },
+  {
+   "gorev": "koku",
+   "neden": "damlaya değince bölüm bitiyordu; ayakta kalma ödülü yüzünden ulaşmak zarardı, beyin yerinde durmayı öğrendi (hız 1,8 mm/s, 0/10). Düzeltme: tat ödülü her adım (MN9), bölüm bitmez; yönlendirme yalnız tek damlada; kaçışta kurtulana kalan süre değeri.",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 225.91302733584683,
+     "hiz": 5.298778854004564,
+     "adim": 1000000,
+     "asama_adimi": 25000,
+     "sure_dk": 1.7,
+     "onceki": {
+      "ayakta": 6,
+      "yuru": "0"
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 250.18184867400743,
+     "hiz": 5.297349208835589,
+     "adim": 1025000,
+     "asama_adimi": 50000,
+     "sure_dk": 4.6,
+     "onceki": {
+      "ayakta": 8,
+      "yuru": "0"
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 292.85204607187654,
+     "hiz": 2.4357944226214823,
+     "adim": 1050000,
+     "asama_adimi": 75000,
+     "sure_dk": 8.7,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": 0
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 327.29888032827074,
+     "hiz": 2.4827276074441373,
+     "adim": 1075000,
+     "asama_adimi": 100000,
+     "sure_dk": 12.5,
+     "onceki": {
+      "ayakta": 8,
+      "yuru": 0
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 387.4840698713366,
+     "hiz": 1.8228924624241933,
+     "adim": 1100000,
+     "asama_adimi": 125000,
+     "sure_dk": 14.4,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "0"
+     }
+    }
+   ]
+  },
+  {
+   "gorev": "koku",
+   "neden": "2. deneme de yerinde durmaya kaydı (hız 0,9 mm/s, 0/10): rastgele yürümek ortalamada zarardı. Düzeltme: uzaklaşma cezası -0,3 ile sınırlı, yönelme ödülü (0,3·cos), anten fark kazancı 10->30.",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "basari": 3,
+     "odul": 284.5183938775355,
+     "hiz": 2.6626551559958616,
+     "adim": 1000000,
+     "asama_adimi": 25000,
+     "sure_dk": 1.7,
+     "onceki": {
+      "ayakta": 0,
+      "yuru": "0"
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 380.7124504396478,
+     "hiz": 2.4232830463594714,
+     "adim": 1025000,
+     "asama_adimi": 50000,
+     "sure_dk": 3.5,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "0"
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 411.46793860411833,
+     "hiz": 0.911227838619137,
+     "adim": 1050000,
+     "asama_adimi": 75000,
+     "sure_dk": 5.4,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "0"
+     }
+    }
+   ]
+  },
+  {
+   "gorev": "tat",
+   "neden": "yönlendirmesiz üç damlada sinek yerinde durdu (hız 1,3 mm/s, 0/10), koku sınavı 0/10. Düzeltme: tadı bakılmamış en yakın damlaya keşif yönlendirmesi (tür ayırmaz); tekrar payı %50.",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 224.73308244446957,
+     "hiz": 3.7328258758244237,
+     "ilk_tat": [
+      null,
+      null,
+      null,
+      "seker",
+      null,
+      null,
+      null,
+      "seker_aci",
+      null,
+      "aci"
+     ],
+     "adim": 1150000,
+     "asama_adimi": 25000,
+     "sure_dk": 2.4,
+     "onceki": {
+      "ayakta": 9,
+      "yuru": "1",
+      "koku": 0
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 1,
+     "odul": 247.56902873623477,
+     "hiz": 3.0088804442839576,
+     "ilk_tat": [
+      "aci",
+      null,
+      null,
+      null,
+      "seker",
+      "seker_aci",
+      null,
+      null,
+      null,
+      null
+     ],
+     "adim": 1175000,
+     "asama_adimi": 50000,
+     "sure_dk": 4.8,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "1",
+      "koku": 0
+     }
+    },
+    {
+     "gecti": false,
+     "basari": 0,
+     "odul": 447.120862633446,
+     "hiz": 1.3273742275084446,
+     "ilk_tat": [
+      null,
+      null,
+      null,
+      null,
+      "seker_aci",
+      null,
+      null,
+      null,
+      null,
+      null
+     ],
+     "adim": 1200000,
+     "asama_adimi": 75000,
+     "sure_dk": 7.5,
+     "onceki": {
+      "ayakta": 10,
+      "yuru": "0",
+      "koku": 0
+     }
+    }
+   ]
+  },
+  {
+   "gorev": "kacis",
+   "neden": "kurtulma değeri gölgesiz/sahte gölgede kalkışa da veriliyordu; beyin her sahnede hemen kalkmayı öğrendi (boşuna kalkış 9/10, doğrulma 0/10). Düzeltme: değer yalnız gerçek gölge varken kalkıp kurtulana.",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "kacis": 10,
+     "bosuna_kalkis": 9,
+     "odul": 53.879298357912276,
+     "adim": 1425000,
+     "asama_adimi": 25000,
+     "sure_dk": 1.5,
+     "onceki": {
+      "ayakta": 0,
+      "yuru": "0",
+      "koku": 1,
+      "tat": 3
+     }
+    }
+   ]
+  },
+  {
+   "gorev": "kacis",
+   "neden": "gölgesiz kalkış bölümü bitirip ~80 puanlık geleceği siliyordu; bu değer uçurumu 10 bin adımda duruşu da bozdu (doğrulma 0/10, bölüm ödülleri eksi). Düzeltme: uçuşla bitişte kalan süre değeri (kalkış anındaki duruş hızıyla), tehditsiz kalkış sabit -10.",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "kacis": 8,
+     "bosuna_kalkis": 10,
+     "odul": -7.9000032250963645,
+     "adim": 1425000,
+     "asama_adimi": 25000,
+     "sure_dk": 1.5,
+     "onceki": {
+      "ayakta": 0,
+      "yuru": "0",
+      "koku": 2,
+      "tat": 3
+     }
+    },
+    {
+     "gecti": false,
+     "kacis": 10,
+     "bosuna_kalkis": 10,
+     "odul": -8.48962330569216,
+     "adim": 1450000,
+     "asama_adimi": 50000,
+     "sure_dk": 2.9,
+     "onceki": {
+      "ayakta": 0,
+      "yuru": "0",
+      "koku": 0,
+      "tat": 4
+     }
+    }
+   ]
+  },
+  {
+   "gorev": "kacis",
+   "neden": "ılımlı bedelle de tek SAC ağında kalkış öğrenilirken duruş/koku çöktü (doğrulma 1/10, koku 0/10); ayakta duramayan sinek için kalkmak kârlı hale geldi (boşuna kalkış 10/10). Karar: 5. aşama ayrı öğrenen kaçış devresiyle (DQN), hareket beyni G4 dondurulur.",
+   "sinavlar": [
+    {
+     "gecti": false,
+     "kacis": 10,
+     "bosuna_kalkis": 10,
+     "odul": -12.694415128371052,
+     "adim": 1425000,
+     "asama_adimi": 25000,
+     "sure_dk": 1.3,
+     "onceki": {
+      "ayakta": 0,
+      "yuru": "0",
+      "koku": 0,
+      "tat": 1
+     }
+    },
+    {
+     "gecti": false,
+     "kacis": 9,
+     "bosuna_kalkis": 7,
+     "odul": -15.889938686855277,
+     "adim": 1450000,
+     "asama_adimi": 50000,
+     "sure_dk": 2.8,
+     "onceki": {
+      "ayakta": 1,
+      "yuru": "0",
+      "koku": 0,
+      "tat": 3
+     }
+    },
+    {
+     "gecti": false,
+     "kacis": 10,
+     "bosuna_kalkis": 10,
+     "odul": -16.000015551896208,
+     "adim": 1475000,
+     "asama_adimi": 75000,
+     "sure_dk": 4.1,
+     "onceki": {
+      "ayakta": 1,
+      "yuru": "0",
+      "koku": 0,
+      "tat": 2
+     }
+    }
+   ]
+  }
+ ],
+ "sinav_yontemi": "1-3. aşama sınavları deterministik politikayla (eylem ortalaması) geçti. 1,225 milyonda gürültülü politika koku görevinde 6/6, deterministik 0/6 çıktı (aç/kapa ayak yapışması, gürültüyle oluşmuş yürüyüş). Bu yüzden 4. aşamadan itibaren sınavlar gürültülü politikayla, sabit tohumla yapılıyor; ölçütler aynı."
+}

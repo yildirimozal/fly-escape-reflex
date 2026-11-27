@@ -1,0 +1,15 @@
+# Embodied simulation and learning (tested versions)
+mujoco==3.3.7
+gymnasium==1.4.0
+stable-baselines3==2.9.2
+torch==2.15.0
+numpy
+Pillow
+# Analysis and figures
+matplotlib
+scipy
+# Whole-brain model (Shiu et al., 2024)
+brian2==2.9.0
+pandas
+pyarrow
+joblib

@@ -1,0 +1,430 @@
+{
+ "10": {
+  "refleks": {
+   "kacis": 1.0,
+   "sahte_kalkis": 0.9370629370629371,
+   "olgun_q": 0.0,
+   "olgun_W100": 100.0389534733254
+  },
+  "eski": [
+   {
+    "ogrenirken_olum": 31,
+    "karsilasma": 9353,
+    "ilk1000_olum": 1,
+    "kacis": 0.958,
+    "sahte_kalkis": 0.978,
+    "olgun_q": 0.021,
+    "olgun_W100": 41.052792550244675,
+    "omur_icinde_W100": 100.04015821992326,
+    "det_kacis": 0.6242038216560509,
+    "det_sahte_kalkis": 0.08391608391608392,
+    "det_q": 0.19666666666666666,
+    "det_W100": 4.085446828679731
+   },
+   {
+    "ogrenirken_olum": 7,
+    "karsilasma": 9222,
+    "ilk1000_olum": 0,
+    "kacis": 0.9886578449905482,
+    "sahte_kalkis": 0.9957537154989384,
+    "olgun_q": 0.006,
+    "olgun_W100": 74.94105952279253,
+    "omur_icinde_W100": 100.04015821992326,
+    "det_kacis": 0.89171974522293,
+    "det_sahte_kalkis": 0.3706293706293706,
+    "det_q": 0.056666666666666664,
+    "det_W100": 16.602844420655327
+   },
+   {
+    "ogrenirken_olum": 26,
+    "karsilasma": 9379,
+    "ilk1000_olum": 0,
+    "kacis": 0.9663366336633663,
+    "sahte_kalkis": 0.9838383838383838,
+    "olgun_q": 0.017,
+    "olgun_W100": 47.4322793948795,
+    "omur_icinde_W100": 100.04015821992326,
+    "det_kacis": 0.8980891719745223,
+    "det_sahte_kalkis": 0.3146853146853147,
+    "det_q": 0.05333333333333334,
+    "det_W100": 17.680654283808646
+   }
+  ],
+  "yeni_k100": [
+   {
+    "ogrenirken_olum": 7,
+    "karsilasma": 7578,
+    "ilk1000_olum": 1,
+    "kacis": 1.0,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.0,
+    "olgun_W100": 100.0401582199231,
+    "omur_icinde_W100": 100.04015821992326,
+    "det_kacis": 1.0,
+    "det_sahte_kalkis": 1.0,
+    "det_q": 0.0,
+    "det_W100": 100.0401582199231
+   },
+   {
+    "ogrenirken_olum": 7,
+    "karsilasma": 10341,
+    "ilk1000_olum": 0,
+    "kacis": 1.0,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.0,
+    "olgun_W100": 100.0401582199231,
+    "omur_icinde_W100": 100.04015821992326,
+    "det_kacis": 0.3821656050955414,
+    "det_sahte_kalkis": 0.6293706293706294,
+    "det_q": 0.3233333333333333,
+    "det_W100": 2.0933879484648226
+   },
+   {
+    "ogrenirken_olum": 17,
+    "karsilasma": 11464,
+    "ilk1000_olum": 0,
+    "kacis": 0.9979674796747967,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.001,
+    "olgun_W100": 95.150840578572,
+    "omur_icinde_W100": 100.04015821992326,
+    "det_kacis": 0.21019108280254772,
+    "det_sahte_kalkis": 0.02097902097902098,
+    "det_q": 0.41333333333333333,
+    "det_W100": 1.4194325642966255
+   }
+  ]
+ },
+ "30": {
+  "refleks": {
+   "kacis": 1.0,
+   "sahte_kalkis": 0.9370629370629371,
+   "olgun_q": 0.0,
+   "olgun_W100": 88.50593440792363
+  },
+  "eski": [
+   {
+    "ogrenirken_olum": 30,
+    "karsilasma": 10031,
+    "ilk1000_olum": 1,
+    "kacis": 0.9509803921568627,
+    "sahte_kalkis": 0.963265306122449,
+    "olgun_q": 0.025,
+    "olgun_W100": 31.72787116085433,
+    "omur_icinde_W100": 88.15044784322038,
+    "det_kacis": 0.8343949044585988,
+    "det_sahte_kalkis": 0.16083916083916083,
+    "det_q": 0.08666666666666667,
+    "det_W100": 9.844580395058804
+   },
+   {
+    "ogrenirken_olum": 24,
+    "karsilasma": 7556,
+    "ilk1000_olum": 0,
+    "kacis": 0.955637707948244,
+    "sahte_kalkis": 0.9324618736383442,
+    "olgun_q": 0.024,
+    "olgun_W100": 32.842689937105135,
+    "omur_icinde_W100": 88.15044784322038,
+    "det_kacis": 0.9617834394904459,
+    "det_sahte_kalkis": 0.4755244755244755,
+    "det_q": 0.02,
+    "det_W100": 38.750146279705596
+   },
+   {
+    "ogrenirken_olum": 24,
+    "karsilasma": 7244,
+    "ilk1000_olum": 0,
+    "kacis": 0.9587242026266416,
+    "sahte_kalkis": 0.9486081370449678,
+    "olgun_q": 0.022,
+    "olgun_W100": 35.0798994710777,
+    "omur_icinde_W100": 88.15044784322038,
+    "det_kacis": 0.9426751592356688,
+    "det_sahte_kalkis": 0.2937062937062937,
+    "det_q": 0.03,
+    "det_W100": 28.425726234619496
+   }
+  ],
+  "yeni_k100": [
+   {
+    "ogrenirken_olum": 12,
+    "karsilasma": 11142,
+    "ilk1000_olum": 1,
+    "kacis": 0.9979959919839679,
+    "sahte_kalkis": 0.998003992015968,
+    "olgun_q": 0.001,
+    "olgun_W100": 83.8535042566638,
+    "omur_icinde_W100": 88.15044784322038,
+    "det_kacis": 0.4267515923566879,
+    "det_sahte_kalkis": 0.34965034965034963,
+    "det_q": 0.3,
+    "det_W100": 2.202988259608755
+   },
+   {
+    "ogrenirken_olum": 6,
+    "karsilasma": 7766,
+    "ilk1000_olum": 0,
+    "kacis": 0.9981718464351006,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.001,
+    "olgun_W100": 83.84222255247867,
+    "omur_icinde_W100": 88.15044784322038,
+    "det_kacis": 1.0,
+    "det_sahte_kalkis": 1.0,
+    "det_q": 0.0,
+    "det_W100": 88.15044784322023
+   },
+   {
+    "ogrenirken_olum": 12,
+    "karsilasma": 11374,
+    "ilk1000_olum": 0,
+    "kacis": 0.9959514170040485,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.002,
+    "olgun_W100": 79.8071529275043,
+    "omur_icinde_W100": 88.15044784322038,
+    "det_kacis": 0.47770700636942676,
+    "det_sahte_kalkis": 0.4825174825174825,
+    "det_q": 0.2733333333333333,
+    "det_W100": 2.463452494979812
+   }
+  ]
+ },
+ "60": {
+  "refleks": {
+   "kacis": 1.0,
+   "sahte_kalkis": 0.9370629370629371,
+   "olgun_q": 0.0,
+   "olgun_W100": 71.20640580982096
+  },
+  "eski": [
+   {
+    "ogrenirken_olum": 85,
+    "karsilasma": 7996,
+    "ilk1000_olum": 1,
+    "kacis": 0.8366935483870968,
+    "sahte_kalkis": 0.7956349206349206,
+    "olgun_q": 0.081,
+    "olgun_W100": 8.404781160564738,
+    "omur_icinde_W100": 70.31588227816607,
+    "det_kacis": 0.32484076433121023,
+    "det_sahte_kalkis": 0.02097902097902098,
+    "det_q": 0.35333333333333333,
+    "det_W100": 1.7489774137798881
+   },
+   {
+    "ogrenirken_olum": 56,
+    "karsilasma": 8259,
+    "ilk1000_olum": 0,
+    "kacis": 0.8937381404174574,
+    "sahte_kalkis": 0.8985200845665962,
+    "olgun_q": 0.056,
+    "olgun_W100": 12.106630834390735,
+    "omur_icinde_W100": 70.31588227816607,
+    "det_kacis": 0.7770700636942676,
+    "det_sahte_kalkis": 0.1258741258741259,
+    "det_q": 0.11666666666666667,
+    "det_W100": 6.434924557758382
+   },
+   {
+    "ogrenirken_olum": 71,
+    "karsilasma": 8529,
+    "ilk1000_olum": 0,
+    "kacis": 0.8695652173913043,
+    "sahte_kalkis": 0.8959660297239915,
+    "olgun_q": 0.069,
+    "olgun_W100": 9.738019430122803,
+    "omur_icinde_W100": 70.31588227816607,
+    "det_kacis": 0.37579617834394907,
+    "det_sahte_kalkis": 0.006993006993006993,
+    "det_q": 0.32666666666666666,
+    "det_W100": 1.9461228088337046
+   }
+  ],
+  "yeni_k100": [
+   {
+    "ogrenirken_olum": 18,
+    "karsilasma": 10057,
+    "ilk1000_olum": 1,
+    "kacis": 0.9980952380952381,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.001,
+    "olgun_W100": 66.87929551333876,
+    "omur_icinde_W100": 70.31588227816607,
+    "det_kacis": 0.9235668789808917,
+    "det_sahte_kalkis": 0.9090909090909091,
+    "det_q": 0.04,
+    "det_W100": 16.90726423255862
+   },
+   {
+    "ogrenirken_olum": 10,
+    "karsilasma": 8176,
+    "ilk1000_olum": 0,
+    "kacis": 0.9981167608286252,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.001,
+    "olgun_W100": 66.87929551333876,
+    "omur_icinde_W100": 70.31588227816607,
+    "det_kacis": 0.4585987261146497,
+    "det_sahte_kalkis": 0.6223776223776224,
+    "det_q": 0.2833333333333333,
+    "det_W100": 1.9671596525629014
+   },
+   {
+    "ogrenirken_olum": 4,
+    "karsilasma": 6845,
+    "ilk1000_olum": 0,
+    "kacis": 1.0,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.0,
+    "olgun_W100": 70.31588227816594,
+    "omur_icinde_W100": 70.31588227816607,
+    "det_kacis": 1.0,
+    "det_sahte_kalkis": 1.0,
+    "det_q": 0.0,
+    "det_W100": 70.31588227816594
+   }
+  ]
+ },
+ "100": {
+  "refleks": {
+   "kacis": 1.0,
+   "sahte_kalkis": 0.9370629370629371,
+   "olgun_q": 0.0,
+   "olgun_W100": 48.14036767901739
+  },
+  "eski": [
+   {
+    "ogrenirken_olum": 141,
+    "karsilasma": 10189,
+    "ilk1000_olum": 1,
+    "kacis": 0.7341040462427746,
+    "sahte_kalkis": 0.7089397089397089,
+    "olgun_q": 0.138,
+    "olgun_W100": 3.619688634824014,
+    "omur_icinde_W100": 46.53646152476029,
+    "det_kacis": 0.4140127388535032,
+    "det_sahte_kalkis": 0.013986013986013986,
+    "det_q": 0.30666666666666664,
+    "det_W100": 1.98192936447701
+   },
+   {
+    "ogrenirken_olum": 104,
+    "karsilasma": 10023,
+    "ilk1000_olum": 0,
+    "kacis": 0.7849686847599164,
+    "sahte_kalkis": 0.7332053742802304,
+    "olgun_q": 0.103,
+    "olgun_W100": 4.903909271783464,
+    "omur_icinde_W100": 46.53646152476029,
+    "det_kacis": 0.4713375796178344,
+    "det_sahte_kalkis": 0.02097902097902098,
+    "det_q": 0.27666666666666667,
+    "det_W100": 2.215091640305419
+   },
+   {
+    "ogrenirken_olum": 107,
+    "karsilasma": 10329,
+    "ilk1000_olum": 0,
+    "kacis": 0.7897838899803536,
+    "sahte_kalkis": 0.7372708757637475,
+    "olgun_q": 0.107,
+    "olgun_W100": 4.6282733531516,
+    "omur_icinde_W100": 46.53646152476029,
+    "det_kacis": 0.5095541401273885,
+    "det_sahte_kalkis": 0.027972027972027972,
+    "det_q": 0.25666666666666665,
+    "det_W100": 2.382298461406474
+   }
+  ],
+  "yeni_k100": [
+   {
+    "ogrenirken_olum": 9,
+    "karsilasma": 7294,
+    "ilk1000_olum": 1,
+    "kacis": 0.9960629921259843,
+    "sahte_kalkis": 0.9939024390243902,
+    "olgun_q": 0.002,
+    "olgun_W100": 42.2773628848005,
+    "omur_icinde_W100": 46.53646152476029,
+    "det_kacis": 1.0,
+    "det_sahte_kalkis": 1.0,
+    "det_q": 0.0,
+    "det_W100": 46.5364615247602
+   },
+   {
+    "ogrenirken_olum": 4,
+    "karsilasma": 7846,
+    "ilk1000_olum": 0,
+    "kacis": 0.9981884057971014,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.001,
+    "olgun_W100": 44.26205946115216,
+    "omur_icinde_W100": 46.53646152476029,
+    "det_kacis": 1.0,
+    "det_sahte_kalkis": 1.0,
+    "det_q": 0.0,
+    "det_W100": 46.5364615247602
+   },
+   {
+    "ogrenirken_olum": 9,
+    "karsilasma": 8104,
+    "ilk1000_olum": 0,
+    "kacis": 1.0,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.0,
+    "olgun_W100": 46.5364615247602,
+    "omur_icinde_W100": 46.53646152476029,
+    "det_kacis": 0.9872611464968153,
+    "det_sahte_kalkis": 0.9300699300699301,
+    "det_q": 0.006666666666666667,
+    "det_W100": 35.122487914446374
+   }
+  ],
+  "yeni_k10": [
+   {
+    "ogrenirken_olum": 11,
+    "karsilasma": 6163,
+    "ilk1000_olum": 1,
+    "kacis": 0.9902723735408561,
+    "sahte_kalkis": 0.9835390946502057,
+    "olgun_q": 0.005,
+    "olgun_W100": 36.84586785819085,
+    "omur_icinde_W100": 46.53646152476029,
+    "det_kacis": 0.9936305732484076,
+    "det_sahte_kalkis": 0.8601398601398601,
+    "det_q": 0.0033333333333333335,
+    "det_W100": 42.53378300392713
+   },
+   {
+    "ogrenirken_olum": 4,
+    "karsilasma": 6033,
+    "ilk1000_olum": 0,
+    "kacis": 1.0,
+    "sahte_kalkis": 1.0,
+    "olgun_q": 0.0,
+    "olgun_W100": 46.5364615247602,
+    "omur_icinde_W100": 46.53646152476029,
+    "det_kacis": 1.0,
+    "det_sahte_kalkis": 1.0,
+    "det_q": 0.0,
+    "det_W100": 46.5364615247602
+   },
+   {
+    "ogrenirken_olum": 9,
+    "karsilasma": 6164,
+    "ilk1000_olum": 0,
+    "kacis": 0.9920477137176938,
+    "sahte_kalkis": 0.9979879275653923,
+    "olgun_q": 0.004,
+    "olgun_W100": 38.30834164078655,
+    "omur_icinde_W100": 46.53646152476029,
+    "det_kacis": 1.0,
+    "det_sahte_kalkis": 0.965034965034965,
+    "det_q": 0.0,
+    "det_W100": 47.42752049934753
+   }
+  ]
+ }
+}

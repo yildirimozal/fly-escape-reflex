@@ -1,0 +1,230 @@
+{
+ "10": {
+  "ogren": {
+   "karsilasma": [
+    9353,
+    9222,
+    9379
+   ],
+   "gercek": [
+    4611,
+    4751,
+    4695
+   ],
+   "yakalanma": [
+    31,
+    7,
+    26
+   ],
+   "yakalanma_ilk1000": [
+    1,
+    0,
+    0
+   ],
+   "son_kacis": [
+    0.958,
+    0.9886578449905482,
+    0.9663366336633663
+   ],
+   "son_bosuna": [
+    0.978,
+    0.9957537154989384,
+    0.9838383838383838
+   ],
+   "son_uygunluk": [
+    79.39838,
+    79.00316000000001,
+    76.16001
+   ]
+  },
+  "refleks": {
+   "karsilasma": 300,
+   "gercek": 157,
+   "yakalanma": 0,
+   "yakalanma_ilk1000": 0,
+   "son_kacis": 1.0,
+   "son_bosuna": 0.9370629370629371,
+   "son_uygunluk": 167.84766666666664
+  },
+  "hic": {
+   "karsilasma": 300,
+   "gercek": 157,
+   "yakalanma": 125,
+   "yakalanma_ilk1000": 125,
+   "son_kacis": 0.20382165605095537,
+   "son_bosuna": 0.0,
+   "son_uygunluk": 145.65563333333333
+  }
+ },
+ "30": {
+  "ogren": {
+   "karsilasma": [
+    10031,
+    7556,
+    7244
+   ],
+   "gercek": [
+    4962,
+    3864,
+    3615
+   ],
+   "yakalanma": [
+    30,
+    24,
+    24
+   ],
+   "yakalanma_ilk1000": [
+    1,
+    0,
+    0
+   ],
+   "son_kacis": [
+    0.9509803921568627,
+    0.955637707948244,
+    0.9587242026266416
+   ],
+   "son_bosuna": [
+    0.963265306122449,
+    0.9324618736383442,
+    0.9486081370449678
+   ],
+   "son_uygunluk": [
+    68.79457,
+    80.84824,
+    82.65441
+   ]
+  },
+  "refleks": {
+   "karsilasma": 300,
+   "gercek": 157,
+   "yakalanma": 0,
+   "yakalanma_ilk1000": 0,
+   "son_kacis": 1.0,
+   "son_bosuna": 0.9370629370629371,
+   "son_uygunluk": 159.04766666666666
+  },
+  "hic": {
+   "karsilasma": 300,
+   "gercek": 157,
+   "yakalanma": 125,
+   "yakalanma_ilk1000": 125,
+   "son_kacis": 0.20382165605095537,
+   "son_bosuna": 0.0,
+   "son_uygunluk": 145.65563333333333
+  }
+ },
+ "60": {
+  "ogren": {
+   "karsilasma": [
+    7996,
+    8259,
+    8529
+   ],
+   "gercek": [
+    3928,
+    4242,
+    4272
+   ],
+   "yakalanma": [
+    85,
+    56,
+    71
+   ],
+   "yakalanma_ilk1000": [
+    1,
+    0,
+    0
+   ],
+   "son_kacis": [
+    0.8366935483870968,
+    0.8937381404174574,
+    0.8695652173913043
+   ],
+   "son_bosuna": [
+    0.7956349206349206,
+    0.8985200845665962,
+    0.8959660297239915
+   ],
+   "son_uygunluk": [
+    64.27798,
+    62.546870000000006,
+    57.57606000000001
+   ]
+  },
+  "refleks": {
+   "karsilasma": 300,
+   "gercek": 157,
+   "yakalanma": 0,
+   "yakalanma_ilk1000": 0,
+   "son_kacis": 1.0,
+   "son_bosuna": 0.9370629370629371,
+   "son_uygunluk": 145.84766666666664
+  },
+  "hic": {
+   "karsilasma": 300,
+   "gercek": 157,
+   "yakalanma": 125,
+   "yakalanma_ilk1000": 125,
+   "son_kacis": 0.20382165605095537,
+   "son_bosuna": 0.0,
+   "son_uygunluk": 145.65563333333333
+  }
+ },
+ "100": {
+  "ogren": {
+   "karsilasma": [
+    10189,
+    10023,
+    10329
+   ],
+   "gercek": [
+    5054,
+    5132,
+    5172
+   ],
+   "yakalanma": [
+    141,
+    104,
+    107
+   ],
+   "yakalanma_ilk1000": [
+    1,
+    0,
+    0
+   ],
+   "son_kacis": [
+    0.7341040462427746,
+    0.7849686847599164,
+    0.7897838899803536
+   ],
+   "son_bosuna": [
+    0.7089397089397089,
+    0.7332053742802304,
+    0.7372708757637475
+   ],
+   "son_uygunluk": [
+    32.76026,
+    32.69144,
+    34.68036
+   ]
+  },
+  "refleks": {
+   "karsilasma": 300,
+   "gercek": 157,
+   "yakalanma": 0,
+   "yakalanma_ilk1000": 0,
+   "son_kacis": 1.0,
+   "son_bosuna": 0.9370629370629371,
+   "son_uygunluk": 128.24766666666667
+  },
+  "hic": {
+   "karsilasma": 300,
+   "gercek": 157,
+   "yakalanma": 125,
+   "yakalanma_ilk1000": 125,
+   "son_kacis": 0.20382165605095537,
+   "son_bosuna": 0.0,
+   "son_uygunluk": 145.65563333333333
+  }
+ }
+}

@@ -1,0 +1,82 @@
+{
+ "lplc2": {
+  "ad": "lplc2",
+  "aktif": 755,
+  "mn9": [
+   0.0,
+   0.0
+  ],
+  "gf": [
+   147.9,
+   128.7
+  ],
+  "mn9_gecikme_ms": [
+   NaN,
+   NaN
+  ],
+  "gf_gecikme_ms": [
+   7.1,
+   7.8
+  ]
+ },
+ "seker": {
+  "ad": "seker",
+  "aktif": 358,
+  "mn9": [
+   57.8,
+   45.0
+  ],
+  "gf": [
+   0.0,
+   0.0
+  ],
+  "mn9_gecikme_ms": [
+   43.9,
+   45.8
+  ],
+  "gf_gecikme_ms": [
+   NaN,
+   NaN
+  ]
+ },
+ "seker_lplc2": {
+  "ad": "seker_lplc2",
+  "aktif": 937,
+  "mn9": [
+   0.1,
+   0.1
+  ],
+  "gf": [
+   147.7,
+   128.3
+  ],
+  "mn9_gecikme_ms": [
+   694.0,
+   694.9
+  ],
+  "gf_gecikme_ms": [
+   7.1,
+   8.5
+  ]
+ },
+ "aci_lplc2": {
+  "ad": "aci_lplc2",
+  "aktif": 857,
+  "mn9": [
+   0.0,
+   0.0
+  ],
+  "gf": [
+   148.1,
+   128.6
+  ],
+  "mn9_gecikme_ms": [
+   NaN,
+   NaN
+  ],
+  "gf_gecikme_ms": [
+   6.8,
+   7.6
+  ]
+ }
+}
