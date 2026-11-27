@@ -1,8 +1,8 @@
-# Learning to escape costs lives
+# Some decisions are too deadly to learn
 
 Code, trained models and result files for the preprint
 
-> Yıldırım, Ö. (2026). *Learning to escape costs lives: a hard-wired looming reflex outperforms reinforcement learning in an embodied fruit fly model.* bioRxiv (link to be added after posting).
+> Yıldırım, Ö. (2026). *Some decisions are too deadly to learn.* bioRxiv (link to be added after posting).
 
 An adult *Drosophila* body (NeuroMechFly v2, MuJoCo) forages while looming objects approach. Half of them strike the fly and half pass within 4–8 mm.
 A hard-wired reflex (20° angular threshold + 7 ms giant fiber latency taken from the whole-brain model of Shiu et al., 2024) is compared with PPO learning circuits trained on the same encounters.
